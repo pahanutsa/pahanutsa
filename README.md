@@ -1,16 +1,13 @@
-### Hi there 👋
+Name: Pavlo Voronko.
 
-<!--
-**pahanutsa/pahanutsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Age: 23.
 
-Here are some ideas to get you started:
+Current residence: Germany. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+5 years of legal experience in ARIO Law Firm during which, apart from gaining legal experience - helped improve digital communication between employees.
+
+1 year experience of managing UNA Casual Cafe through a crisis, caused by war, while developing a digital system of storing documentation and keeping track of inventory as well as expensive equipment. 
+
+Entry level skills of working with Swift, C++. After completing courses on sololearn.com for both languages tried to apply basic knowledge to build basic games in Unreal Engine (finished with a working prototype of an arcade game meant to help study basic musical scales) and applications on Mac. 
+
+5 years of music production experience in alternative rock, hip-pop, electronic music genres.
